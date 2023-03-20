@@ -1,7 +1,7 @@
 // cppMidtermSpr23.cpp : midterm for C++ Spring 2023
 //
 
-// dH 3/7/23 - file io, create an array from the input file, write the calcBirthdate() function
+// Adrian Riofrio 3/19/23 - file io, create an array from the input file, write the calcBirthdate() function
 //   write the genUniqueID() function. Select a line in the array to test various input values.
 
 // References:
